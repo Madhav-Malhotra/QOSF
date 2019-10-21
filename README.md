@@ -13,4 +13,6 @@ Using the k-means clustering algorithm, we were able to achieve 100% accuracy in
 Using Rigetti's Quantum Optimisation Approximation Algorithm (QAOA) and a Maxcut clustering technique, we were able to achieve 100% accuracy in clustering 8 data samples in a time of 92,000 ms on Rigetti's Quantum Virtual Machine.
 
 Obviously, this isn't ideal and shows us the long ways to go still with quantum computing. That being said, I had an amazing time learning about the fundamentals of this growing technology and would like to thank CERN, the QOSF, and the Creative Destruction Lab (CDL) for bringing about this opportunity. 
-And of course, none of this would have been possible without our talented mentors from ProteinQure - Mark FingerHuth and Tomas Babej/
+And of course, none of this would have been possible without our talented mentors from ProteinQure - Mark FingerHuth and Tomas Babej.
+
+If you have any questions about my work or would just like to connect in general, feel free to reach out on [Linkedin](https://www.linkedin.com/in/madhav-malhotra/)
